@@ -36,7 +36,7 @@ predict_fen_code("board.jpg")
 
 ---
 
-### ✅ Detected Board
+### ✅ Labeled Image
 ![Detected Board](board_example1.jpg)
 
 ### ✅ Labeled Image
