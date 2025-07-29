@@ -22,6 +22,17 @@ It also saves a **labeled image** with piece names on each square for better vis
 
 ---
 
+## Installation
+git clone https://github.com/YOUR_USERNAME/chess-fen-detector.git
+cd chess-fen-detector
+pip install ultralytics opencv-python
+
+▶️ Usage:
+from detect_fen import predict_fen_code
+
+# Run prediction on an image
+predict_fen_code("board.jpg")
+
 ## 📂 Dataset Structure
 
 
@@ -45,3 +56,7 @@ names:
   10: White Pawn
   11: White Queen
   12: White Rook
+
+
+
+
