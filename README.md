@@ -23,7 +23,7 @@ It also saves a **labeled image** with piece names on each square for better vis
 ---
 
 ## Installation
-git clone https://github.com/YOUR_USERNAME/chess-fen-detector.git
+git clone https://github.com/Akshay7623/chess-board-detector
 cd chess-fen-detector
 pip install ultralytics opencv-python
 
