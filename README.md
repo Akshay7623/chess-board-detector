@@ -28,10 +28,20 @@ cd chess-fen-detector
 pip install ultralytics opencv-python
 
 ▶️ Usage:
+
 ---
+
 from detect_fen import predict_fen_code
 predict_fen_code("board.jpg")
+
 ---
+
+### ✅ Detected Board
+![Detected Board](board_example1.jpg)
+
+### ✅ Labeled Image
+![Labeled Board](board_example2.jpg)
+
 ## 📂 Dataset Structure
 
 
