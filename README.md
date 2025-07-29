@@ -24,3 +24,24 @@ It also saves a **labeled image** with piece names on each square for better vis
 
 ## 📂 Dataset Structure
 
+
+### Dataset YAML
+```yaml
+path: /path/to/chess
+train: images/train
+val: images/val
+
+names:
+  0: Black Bishop
+  1: Black King
+  2: Black Knight
+  3: Black Pawn
+  4: Black Queen
+  5: Black Rook
+  6: Shadow
+  7: White Bishop
+  8: White King
+  9: White Knight
+  10: White Pawn
+  11: White Queen
+  12: White Rook
